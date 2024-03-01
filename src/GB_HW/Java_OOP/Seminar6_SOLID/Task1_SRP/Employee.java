@@ -1,3 +1,5 @@
+// Home work OOP Java Sem6 Task1
+
 package GB_HW.Java_OOP.Seminar6_SOLID.Task1_SRP;
 
 /*
