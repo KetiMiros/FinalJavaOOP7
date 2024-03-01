@@ -1,3 +1,5 @@
+// Промежуточная по ООП Java
+
 package GB_HW.Java_OOP.Seminar7;
 
 import GB_HW.Java_OOP.Seminar7.Entity.ComplexNumber;
